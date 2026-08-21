@@ -62733,7 +62733,7 @@
   },
   {
     "nationality": "Spain",
-    "league": "Premier League",
+    "league": "La Liga",
     "name": "Rodri",
     "active": true,
     "multi_positions": [
@@ -62741,7 +62741,7 @@
       "CM"
     ],
     "position": "DMC",
-    "team": "Manchester City",
+    "team": "Barcelona",
     "id": "4496",
     "age": 30
   },
@@ -91725,13 +91725,13 @@
   },
   {
     "nationality": "Belgium",
-    "league": "Serie A",
-    "name": "R. Lukaku",
+    "league": "Süper Lig",
+    "name": "Romelu Lukaku",
     "active": true,
     "multi_positions": [
       "FC"
     ],
-    "team": "Napoli",
+    "team": "Fenerbahçe",
     "position": "FC",
     "id": "6580",
     "age": 33
