@@ -61389,7 +61389,7 @@
   },
   {
     "nationality": "Egypt",
-    "league": "Premier League",
+    "league": "Süper Lig",
     "name": "Mohamed Salah",
     "active": true,
     "multi_positions": [
@@ -61397,7 +61397,7 @@
       "FC",
       "FR"
     ],
-    "team": "Liverpool",
+    "team": "Trabzonspor",
     "id": "4387",
     "position": "AMR",
     "age": 34
@@ -62409,7 +62409,7 @@
   },
   {
     "nationality": "Portugal",
-    "league": "Premier League",
+    "league": "La Liga",
     "name": "Bernardo Silva",
     "active": true,
     "multi_positions": [
@@ -62418,7 +62418,7 @@
       "AMC",
       "AMR"
     ],
-    "team": "Manchester City",
+    "team": "Real Madrid",
     "id": "4473",
     "position": "AMR",
     "age": 31
@@ -88732,8 +88732,8 @@
   },
   {
     "nationality": "Netherlands",
-    "league": "Serie A",
-    "name": "D. Dumfries",
+    "league": "La Liga",
+    "name": "Denzel Dumfries",
     "multi_positions": [
       "RB",
       "DMR",
@@ -88743,7 +88743,7 @@
     "active": true,
     "id": "6371",
     "position": "RM",
-    "team": "Inter",
+    "team": "Real Madrid",
     "age": 30
   },
   {
@@ -89788,13 +89788,13 @@
   },
   {
     "nationality": "Serbia",
-    "league": "Serie A",
-    "name": "D. Vlahović",
+    "league": "Süper Lig",
+    "name": "Dusan Vlahović",
     "active": true,
     "multi_positions": [
       "FC"
     ],
-    "team": "Juventus",
+    "team": "Beşiktaş",
     "position": "FC",
     "id": "6446",
     "age": 26
